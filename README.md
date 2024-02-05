@@ -1,2 +1,1 @@
-# ze-wiki
-asdas
+no readme
